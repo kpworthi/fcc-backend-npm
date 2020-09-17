@@ -1,5 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kevan Worthington",
+	"description": "key for usage in completing fCC npm challenges",
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"challenge"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +17,8 @@
 	"engines": {
 		"node": "8.11.2"
 	},
+	"version": "1.0.4",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
